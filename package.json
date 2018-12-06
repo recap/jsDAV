@@ -20,7 +20,7 @@
   "dependencies": {
     "asyncjs": "0.0.10",
     "formidable": "1.0.17",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^8.4.0",
     "moment": "2.11.1",
     "xmldom": "0.1.21",
     "xpath": "0.0.21"
